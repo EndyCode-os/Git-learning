@@ -12,6 +12,7 @@ Here’s a full summary of Git and GitHub, how they work together, the most used
 
 -You can commit changes locally, and later push those commits to a remote repository.
 
+
 **What is GitHub?**
 -GitHub is a cloud-based platform that hosts Git repositories.
 
@@ -20,6 +21,7 @@ Here’s a full summary of Git and GitHub, how they work together, the most used
 -It adds collaboration features like pull requests, issue tracking, code review, CI/CD integration, and project management tools.
 
 -Essentially, GitHub is where you push your local Git commits to collaborate and back up code online.
+
 
 **How Git and GitHub work together?**
 -You create a Git repo on your local machine.
