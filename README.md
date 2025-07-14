@@ -35,3 +35,11 @@ Here’s a full summary of Git and GitHub, how they work together, the most used
 -Others can clone your GitHub repo, make changes, then push their changes back.
 
 -You can manage contributions, review code, and merge changes using GitHub’s web interface.
+
+**Important resources**
+
+- If you want to learn git with game and visualization -----> download **Oh My Git** (https://ohmygit.org/)
+- If you want to better understand git by using visualization -----> visit and read **A grip on Git** (https://agripongit.vincenttunru.com/)
+- If you love tutorials ------> Watch **Git and GitHub for Beginners - Crash Course** (https://www.youtube.com/watch?v=RGOj5yH7evk), it will explain you the fundamentals of git and github
+
+  Keep going and keep pushing
